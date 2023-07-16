@@ -6,4 +6,3 @@ This package contains the following:
 * **trained_models**: Pickle files with trained models [empty due to size constraints - please regenerate locally or contact us]
 * **test_results**: Results obtained by applying the trained models on the holdout and external validation datasets.
 * **figures**: Python notebooks used to generate results in the paper.
-# OvarianIntegration
