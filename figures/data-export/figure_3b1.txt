@@ -1,0 +1,4 @@
+cum_treatment, MSE=0.77, r_S=0.49 p=0.03, r_P=0.30 p=0.20
+cum_ca125, MSE=0.76, r_S=0.37 p=0.11, r_P=0.32 p=0.17
+cum_ratio_radiomics, MSE=0.65, r_S=0.50 p=0.02, r_P=0.50 p=0.02
+cum_ctdna, MSE=0.66, r_S=0.50 p=0.02, r_P=0.49 p=0.03

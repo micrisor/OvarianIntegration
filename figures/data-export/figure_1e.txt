@@ -1,0 +1,7 @@
+"Upper abdominal quad.",0.2777777777777778
+"Extraabdominal LNs",0.4444444444444444
+"Abdominal LNs",0.5277777777777778
+"Paracolic, mesenteric,
+epigastric",0.5416666666666666
+"Omentum",1.0
+"Ovaries and pelvis",1.0
