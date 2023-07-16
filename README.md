@@ -1,4 +1,4 @@
-# OvarianIntegration
+# IRON: Integrated Radiogenomics for Ovarian Neoadjuvant therapy 
 
 This package contains the following: 
 
